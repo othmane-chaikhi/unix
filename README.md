@@ -1,0 +1,2 @@
+# unix
+just training projet 
